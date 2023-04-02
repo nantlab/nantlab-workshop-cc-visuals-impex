@@ -8,7 +8,11 @@
 * if
 * for
 * functions (map, sin, millis, ...)
-2. interaction
+  * sine function: https://editor.p5js.org/thomasgeissl/sketches/LB7dVcIiAW  
+  * map function: https://editor.p5js.org/thomasgeissl/sketches/OYHbPQrnS
+  * millis function: https://editor.p5js.org/thomasgeissl/sketches/DgDuiqrIS
+
+1. interaction
 * mouse/keyboard: https://editor.p5js.org/thomasgeissl/sketches/ttHYj22Rw
 * midi: https://editor.p5js.org/thomasgeissl/sketches/ivhb5YdKU
 * mqtt (popeye): https://editor.p5js.org/thomasgeissl/sketches/hcx44o_10
