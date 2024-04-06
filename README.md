@@ -1,6 +1,6 @@
 # nantlab-workshop-cc-visuals-impex-2023
 ## content
-1. Basics
+### Basics
 * coordinate system
 * colors
 * shapes
@@ -12,15 +12,16 @@
   * map function: https://editor.p5js.org/thomasgeissl/sketches/OYHbPQrnS
   * millis function: https://editor.p5js.org/thomasgeissl/sketches/DgDuiqrIS
 
-1. interaction
+### interaction
 * mouse/keyboard: https://editor.p5js.org/thomasgeissl/sketches/ttHYj22Rw
-* midi: https://editor.p5js.org/thomasgeissl/sketches/ivhb5YdKU
+* scene chooser: https://editor.p5js.org/thomasgeissl/sketches/zLJ3G5YKI
+* midi: https://editor.p5js.org/thomasgeissl/sketches/i-HIg1Tzq
 * mqtt (popeye): https://editor.p5js.org/thomasgeissl/sketches/hcx44o_10
 * audio reactive: https://editor.p5js.org/thomasgeissl/sketches/krtVDP_9S
 
 
-## snippets
-### save snapshot
+### snippets
+#### save snapshot
 ```
 function keyReleased() {
   if (key === 's') {
