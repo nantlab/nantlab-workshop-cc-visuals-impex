@@ -36,8 +36,9 @@ function keyReleased() {
 * virtual midi device on windows: https://www.tobias-erichsen.de/software/loopmidi.html
 
 ## further links
-p5js collection: https://editor.p5js.org/thomasgeissl/collections/1aVAFOdmq
-p5js documentation: https://p5js.org/reference/
-p5js tutorials: daniel shiffman, coding train, the nature of code
-* https://www.youtube.com/watch?v=70MQ-FugwbI
-* https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+* p5js collection: https://editor.p5js.org/thomasgeissl/collections/1aVAFOdmq
+* p5js documentation: https://p5js.org/reference/
+* p5js tutorials: daniel shiffman, coding train, the nature of code
+  * https://www.youtube.com/watch?v=70MQ-FugwbI
+  * https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+* generative gestaltung demos: http://www.generative-gestaltung.de/2/ 
