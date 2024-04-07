@@ -1,4 +1,4 @@
-# nantlab-workshop-cc-visuals-impex-2023
+# nantlab-workshop-cc-visuals-impex
 ## content
 ### Basics
 * coordinate system
